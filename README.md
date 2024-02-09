@@ -12,7 +12,7 @@ This Python script allows you to inject a DLL into a remote process on Windows u
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yousef505050/remote-dll-injector.git
+   git clone https://github.com/joisyousef/remote-dll-injector.git
    cd remote-dll-injector
    ```
 
